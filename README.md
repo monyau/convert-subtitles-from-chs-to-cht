@@ -10,4 +10,4 @@ I modified his script slightly for running in colab.
 
 https://github.com/WimHan/opencc-with-GUI
 
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/googlecolab/colabtools/blob/master/notebooks/colab-github-demo.ipynb)
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://github.com/monyau/convert-subtitles-from-chs-to-cht/blob/master/convert.subtitles.chs2cht.V1.0.ipynb)
