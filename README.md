@@ -9,3 +9,5 @@ Wim Han is the original author.
 I modified his script slightly for running in colab.
 
 https://github.com/WimHan/opencc-with-GUI
+
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/weiji14/deepbedmap/]
